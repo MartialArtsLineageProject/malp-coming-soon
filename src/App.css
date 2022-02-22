@@ -1,11 +1,15 @@
+body {
+  background-image: url(acquia_prosper_logo.png);
+}
+
 .App {
   text-align: center;
 }
 
-.App-logo {  
+.App-logo {
+  
   pointer-events: none;
 }
-
 
 
 .App-header {
