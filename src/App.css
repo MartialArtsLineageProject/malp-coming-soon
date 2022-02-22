@@ -1,17 +1,27 @@
 body {
   background-image: url(1024px-Karate_ShuriCastle.jpg);
+  box-shadow: 0 0 5px 2px #282a2d;
   background-color: #343434;
   background-repeat: no-repeat;
   background-position: center;
+  
 }
 
+a {color: white;}
 
-.App {
-  text-align: center;
+p {
+  background-color: rgba(000, 000, 000, .75);
+  padding: 15px;
+  border-radius: 5px;
+  border-color: grey;
+  
 }
 
 .App-logo {
-  
+  background-color: rgba(000, 000, 000, .75);
+  padding: 15px;
+  border-radius: 5px;
+  border-color: grey;
   pointer-events: none;
 }
 
