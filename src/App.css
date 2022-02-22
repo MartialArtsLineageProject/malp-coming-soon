@@ -1,6 +1,3 @@
-body {
-  background-image: url(acquia_prosper_logo.png);
-}
 
 .App {
   text-align: center;
@@ -13,7 +10,7 @@ body {
 
 
 .App-header {
-  background-color: #343434;
+  
   min-height: 100vh;
   display: flex;
   flex-direction: column;

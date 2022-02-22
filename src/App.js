@@ -1,13 +1,17 @@
+import HeroCarousel from 'react-hero-carousel/dist/HeroCarousel';
 import logo from './acquia_prosper_logo.png';
 import './App.css';
+
+
 
 function App() {
   return (
     <div className="App">
+      <HeroCarousel />
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Coming soon...
+          Coming soon... Visit our <a href="https://facebook.com/malineage">Facebook page</a> for updates.
         </p>
         
       </header>
