@@ -1,3 +1,10 @@
+body {
+  background-image: url(1024px-Karate_ShuriCastle.jpg);
+  background-color: #343434;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
 
 .App {
   text-align: center;
@@ -22,13 +29,4 @@
 
 .App-link {
   color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
 }

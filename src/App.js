@@ -10,9 +10,8 @@ function App() {
       <HeroCarousel />
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Coming soon... Visit our <a href="https://facebook.com/malineage">Facebook page</a> for updates.
-        </p>
+        <p>Coming soon...</p>
+        <p>Visit our <a href="https://facebook.com/malineage">Facebook page</a> for updates.</p>
         
       </header>
     </div>
